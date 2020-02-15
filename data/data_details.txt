@@ -1,0 +1,2 @@
+https://www.kaggle.com/yelp-dataset/yelp-dataset
+https://www.yelp.com/dataset
